@@ -4,6 +4,8 @@ Welcome to **Com&Com**, the joint chapter between the Computer Society and the C
 
 ## Our Workshops and Activities 📚👩‍💻
 
+Here are some of the activities we’ve been doing (and there are many more to come!):
+
 - **Web Programming Workshop** 🌐👨‍💻  
   Build websites from scratch over five sessions—dive deep into both backend development with **Node.js**, **APIs**, and **NoSQL databases**, and master the frontend with **React**, state management, and user experience optimization.
 
@@ -12,6 +14,10 @@ Welcome to **Com&Com**, the joint chapter between the Computer Society and the C
 
 - **Algorithmic Trading Workshop** 📈🤖  
   Led by **Carolina Salcedo**, discover how automated algorithms can transform financial decision-making through data analysis, technical strategies, and real-world case studies.
+
+## Repository Hub for All Activities 📁🔧
+
+This organization is the home for all the repositories containing our workshop materials, code samples, and projects. Here, you can explore, contribute, and learn from our collective work in technology and communications.
 
 ## Join Our Community 🤝✨
 
